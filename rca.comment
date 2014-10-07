@@ -1,5 +1,5 @@
-  # Public: The / action
+  # Public: The <action_name> action
   #
   # params - The Hash options
   #
-  # Renders <action name> action
+  # Renders <action_name> action

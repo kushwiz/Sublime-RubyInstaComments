@@ -1,8 +1,14 @@
 [
     {
-        "keys": ["ctrl+shift+a"], "command": "rca"
+        "keys": ["ctrl+shift+a"],
+        "command": "ruby_action_comment"
     },
     {
-        "keys": ["ctrl+shift+m"], "command": "rmf"
+        "keys": ["ctrl+shift+m"],
+        "command": "ruby_method_comment"
     }
 ]
+
+
+
+
