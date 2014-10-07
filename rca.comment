@@ -1,0 +1,5 @@
+  # Public: The / action
+  #
+  # params - The Hash options
+  #
+  # Renders <action name> action
